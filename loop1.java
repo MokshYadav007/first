@@ -10,6 +10,7 @@ class assingment
         {
           System.out.println(i);
         }
+        
         scan.close();
 
     }
