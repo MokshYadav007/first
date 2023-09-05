@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JagedArray23
+public class 2-dArray
 {
     public static void main(String[] args) 
     {
