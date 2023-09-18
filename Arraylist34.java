@@ -19,6 +19,7 @@ public class Arraylist34
       System.out.println(ar2);
 
       ar2.add(3, "*********");
+    
       System.out.println(ar2);
     }
 }
