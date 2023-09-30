@@ -4,7 +4,7 @@ import java.util.*;
 public class HashMap12 {
     public static void main(String[] args) {
 
-          HashMap hm = new HashMap();
+          HashMap hm = new HashMap();  
           hm.put(01, "this");
           hm.put(02, "is");
           hm.put(03, "hashmap");
